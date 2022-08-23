@@ -203,7 +203,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 Thanks goes to [Chris Pennington](https://www.youtube.com/c/CodinginPublic) (Coding in Public) for presenting this project on [YouTube](https://www.youtube.com/watch?v=s84yXvLOoio&t=1s). Please subscribe to his channel!
 
-#### Other resources
+### Other resources
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
