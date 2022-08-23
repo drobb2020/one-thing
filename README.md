@@ -76,7 +76,7 @@
 
 ![One Thing!](./public/screenshot.png)
 
-This is a simple react spa application geared towards beginners learning react. The app did not take long to complete and there are some fundamental lessons to learn in this project.
+This is a simple react single page application geared towards beginners learning react. The app did not take long to complete and there are some fundamental lessons to learn in this project.
 
 Have fun if you decide to clone the repo.
 
@@ -108,8 +108,6 @@ This project was started using pnpm. If you don't have this package installed yo
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
 
@@ -155,21 +153,14 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This is a simple demo application for first-time react developers. I did not take this project live. It does not have any backend storage and can handle only one task at a time (hence one thing).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-* [X] Add Changelog
-* [X] Add back to top links
-* [ ] Add Additional Templates w/ Examples
-* [ ] Add "components" document to easily copy & paste sections of the readme
-
-See the [open issues](https://github.com/drobb2020/drobb-README-template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/drobb2020/one-thing/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/drobb2020/repo_name)
+Project Link: [https://github.com/drobb2020/one-thing](https://github.com/drobb2020/one-thing)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,21 +201,25 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/dr
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+Thanks goes to [Chris Pennington](https://www.youtube.com/c/CodinginPublic) (Coding in Public) for presenting this project on [YouTube](https://www.youtube.com/watch?v=s84yXvLOoio&t=1s). Please subscribe to his channel!
+
+#### Other resources
+
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Vite](https://vitejs.dev/)
+* [pnpm](https://pnpm.io/)
+* [React HeroIcons](https://heroicons.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/drobb2020/one-thing.svg?style=for-the-badge
-[contributors-url]: https://github.com/drobb2020/drobb-README-template/graphs/contributors
+[contributors-url]: https://github.com/drobb2020/one-thing/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/drobb2020/one-thing.svg?style=for-the-badge
 [forks-url]: https://github.com/drobb2020/one-thing/network/members
 [stars-shield]: https://img.shields.io/github/stars/drobb2020/one-thing.svg?style=for-the-badge
